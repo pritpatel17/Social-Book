@@ -43,8 +43,7 @@ message.addEventListener('click',()=>{
 
 })
 
-// ...................THEME CUSTOMIZTION......
-// ............THEME CUSTOMIZTION......
+
 
 const themeMenu = document.querySelector('#themeMenu');
 const themBOx = document.querySelector('.theme')
@@ -54,7 +53,6 @@ themeMenu.addEventListener('click',()=>{
     themBOx.style.display= 'grid'
 })
 
-// FIREND RQUEST BUTTON..............
 const addBtn = document.querySelectorAll('#add');
 const delbtn = document.querySelectorAll('#del');
  
